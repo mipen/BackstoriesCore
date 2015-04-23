@@ -3,7 +3,6 @@
 	<ThingDef>
 		<defName>BackstoriesModInit</defName>
 		<category>Building</category>
-		<eType>BuildingComplex</eType>
 		<menuHidden>true</menuHidden>
 		<label>BackstoriesModInitializer</label>
 		<thingClass>Thing</thingClass>
